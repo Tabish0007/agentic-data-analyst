@@ -1,0 +1,12 @@
+{"id": "t01", "question": "What was total revenue in 2024?", "answer": 2297600.3, "complexity": "simple"}
+{"id": "t02", "question": "Which region had the highest total revenue in 2023?", "answer": "EU", "complexity": "simple"}
+{"id": "t03", "question": "What was the average order value in the EU in Q2 2024?", "answer": 916.57, "complexity": "simple"}
+{"id": "t04", "question": "How many orders in the partner channel in 2024 were refunded?", "answer": 30, "complexity": "simple"}
+{"id": "t05", "question": "Which product had the highest total units sold in 2024 (excluding refunded)?", "answer": "D", "complexity": "simple"}
+{"id": "t06", "question": "What percentage of 2024 orders were refunded (rounded to 1 decimal)?", "answer": 6.5, "complexity": "simple"}
+{"id": "t07", "question": "By what percentage did total revenue grow from 2023 to 2024 (rounded to 1 decimal)?", "answer": -7.1, "complexity": "complex"}
+{"id": "t08", "question": "What was the median unit price across all non-refunded orders in 2024?", "answer": 80.32, "complexity": "simple"}
+{"id": "t09", "question": "In how many months of 2024 did online-channel revenue exceed retail-channel revenue (non-refunded)?", "answer": 12, "complexity": "complex"}
+{"id": "t10", "question": "What was the total discount cost in LATAM in 2024, counting all orders including refunded?", "answer": 47971.13, "complexity": "simple"}
+{"id": "t11", "question": "What was the total number of orders in 2023?", "answer": 2575, "complexity": "simple"}
+{"id": "t12", "question": "Which product generated the most revenue in APAC in 2024 (non-refunded)?", "answer": "E", "complexity": "simple"}

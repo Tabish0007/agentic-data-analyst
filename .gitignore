@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+data/
+models/
+data_verifier/
+memory/*.jsonl
+
+.DS_Store
+**/.DS_Store

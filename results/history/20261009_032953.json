@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-10-09T03:29:53.126152",
+  "big_model": "qwen2.5:7b",
+  "small_model": "qwen2.5:7b",
+  "verifier": "heuristic",
+  "router": "heuristic",
+  "n": 12,
+  "success": 0.25,
+  "avg_steps": 9.666666666666666,
+  "avg_tokens": 22034.666666666668,
+  "wall_seconds": 3835.0,
+  "rows": [
+    {
+      "id": "t01",
+      "passed": false,
+      "detail": "best_rel_err=0.0733",
+      "answer": "2465903.85",
+      "gold": 2297600.3,
+      "steps": 12,
+      "prompt_tokens": 26826,
+      "completion_tokens": 1383
+    },
+    {
+      "id": "t02",
+      "passed": true,
+      "detail": "text-token",
+      "answer": "EU",
+      "gold": "EU",
+      "steps": 6,
+      "prompt_tokens": 7140,
+      "completion_tokens": 849
+    },
+    {
+      "id": "t03",
+      "passed": false,
+      "detail": "best_rel_err=0.2012",
+      "answer": "1100.97",
+      "gold": 916.57,
+      "steps": 5,
+      "prompt_tokens": 7065,
+      "completion_tokens": 636
+    },
+    {
+      "id": "t04",
+      "passed": true,
+      "detail": "best_rel_err=0.0000",
+      "answer": "30",
+      "gold": 30,
+      "steps": 11,
+      "prompt_tokens": 26312,
+      "completion_tokens": 1173
+    },
+    {
+      "id": "t05",
+      "passed": false,
+      "detail": "text-token",
+      "answer": null,
+      "gold": "D",
+      "steps": 12,
+      "prompt_tokens": 32163,
+      "completion_tokens": 2489
+    },
+    {
+      "id": "t06",
+      "passed": false,
+      "detail": "no number in answer",
+      "answer": null,
+      "gold": 6.5,
+      "steps": 12,
+      "prompt_tokens": 34977,
+      "completion_tokens": 1838
+    },
+    {
+      "id": "t07",
+      "passed": false,
+      "detail": "no number in answer",
+      "answer": null,
+      "gold": -7.1,
+      "steps": 12,
+      "prompt_tokens": 21117,
+      "completion_tokens": 2149
+    },
+    {
+      "id": "t08",
+      "passed": true,
+      "detail": "best_rel_err=0.0000",
+      "answer": "80.32",
+      "gold": 80.32,
+      "steps": 11,
+      "prompt_tokens": 24908,
+      "completion_tokens": 1272
+    },
+    {
+      "id": "t09",
+      "passed": false,
+      "detail": "no number in answer",
+      "answer": null,
+      "gold": 12,
+      "steps": 12,
+      "prompt_tokens": 28970,
+      "completion_tokens": 2435
+    },
+    {
+      "id": "t10",
+      "passed": false,
+      "detail": "best_rel_err=0.9991",
+      "answer": "43.22",
+      "gold": 47971.13,
+      "steps": 4,
+      "prompt_tokens": 4287,
+      "completion_tokens": 381
+    },
+    {
+      "id": "t11",
+      "passed": false,
+      "detail": "no number in answer",
+      "answer": null,
+      "gold": 2575,
+      "steps": 12,
+      "prompt_tokens": 20623,
+      "completion_tokens": 1811
+    },
+    {
+      "id": "t12",
+      "passed": false,
+      "detail": "text-token",
+      "answer": "C",
+      "gold": "E",
+      "steps": 7,
+      "prompt_tokens": 12528,
+      "completion_tokens": 1084
+    }
+  ]
+}
